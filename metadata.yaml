@@ -1,0 +1,40 @@
+_repo: A-dissertation-on-the-inutility-of-the-amputation-of-limbs_44089
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tissot, S. A. D. (Samuel Auguste David)
+    aliases:
+    - Tissot, Simon André
+    - Tissot, Auguste
+    - Tissot, Samuel Auguste Andre David
+    - Tissot, Samuel Auguste André David
+    birthdate: 1728
+    deathdate: 1797
+    gutenberg_agent_id: '7413'
+    url: http://www.gutenberg.org/2009/agents/7413
+    wikipedia: http://en.wikipedia.org/wiki/Samuel-Auguste_Tissot
+covers:
+- cover_type: archival
+  image_path: 44089-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bilguer, Johann Ulrich
+    alias: Bilguer, Mr. (Johann Ulrich)
+    birthdate: 1720
+    deathdate: 1796
+    gutenberg_agent_id: '42565'
+    url: http://www.gutenberg.org/2009/agents/42565
+description: ''
+gutenberg_issued: '2013-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amputation -- Early works to 1800'
+- !lcc 'RD'
+title: A dissertation on the inutility of the amputation of limbs
+url: http://www.gutenberg.org/ebooks/44089
